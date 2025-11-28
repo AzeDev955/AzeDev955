@@ -30,7 +30,7 @@ Estoy siempre abierto a aprender nuevas herramientas y mejorar mis habilidades e
 
 📍 Sobre Mí
 
-Tengo 27 años y soy de Madrid, España. Cuando no estoy programando, me gusta echar unas partidas a cualquiero juego de peleas o salir a dar un buen paseo.
+Tengo 27 años y soy de Madrid, España. Cuando no estoy programando, me gusta echar unas partidas a cualquier juego de peleas o salir a dar un buen paseo.
 
 📫 ¿Hablamos?
 
