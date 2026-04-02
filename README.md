@@ -27,7 +27,7 @@ Estoy en constante aprendizaje, buscando siempre la herramienta más adecuada pa
 
 ## 📍 Sobre Mí
 
-Tengo 28 años y soy de Madrid, España. Cuando me alejo del teclado y el editor de código, me gusta echar unas partidas a cualquier juego de peleas o desconectao saliendo a dar un buen paseo.
+Tengo 28 años y soy de Madrid, España. Cuando me alejo del teclado y el editor de código, me gusta echar unas partidas a cualquier juego o desconecto saliendo a dar un buen paseo.
 
 ## 📫 ¿Hablamos?
 
